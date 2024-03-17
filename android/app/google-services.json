@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883581912483",
+    "project_id": "kombinb2",
+    "storage_bucket": "kombinb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883581912483:android:389b99aad6de2838374616",
+        "android_client_info": {
+          "package_name": "com.example.k_b_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883581912483-t7lgk8048m9ulfe257ap5ktrh2tesh4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetYCR4dBKL5UKadllySaZv4orCxEMgPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883581912483-t7lgk8048m9ulfe257ap5ktrh2tesh4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
